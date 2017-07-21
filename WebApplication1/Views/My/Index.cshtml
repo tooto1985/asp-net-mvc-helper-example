@@ -1,0 +1,17 @@
+﻿@using WebApplication1.Helpers;
+
+@{
+    ViewBag.Title = "Index";
+}
+
+
+@Html.Raw(Html.ShowH1("xxx")) 
+
+
+@viewHelper.SearchBar("data0")
+@SearchBox("data2")
+
+
+@helper SearchBox(string value) { 
+    <input type="text" value="@value">
+}

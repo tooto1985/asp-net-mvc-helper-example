@@ -1,0 +1,6 @@
+在Razer中的@helper寫法
+http://blog.sanc.idv.tw/2011/08/aspnet-mvc-razorhelper.html
+Helper Function寫法
+http://demo.tc/post/459
+以上兩者比較
+http://limitedcode.blogspot.tw/2015/02/aspnet-mvc-razor-helper-function.html
